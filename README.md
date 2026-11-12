@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-前往 [最新发行版](https://github.com/YHBH520/LexiOrbit/releases/latest)，下载 `LexiOrbit-Setup-1.2.35.exe`，运行安装向导。当前提供 Windows x64 版本；手机小程序尚未作为本仓库的正式发行内容。
+前往 [最新发行版](https://github.com/YHBH520/LexiOrbit/releases/latest)，下载 `LexiOrbit-Setup-1.2.36.exe`，运行安装向导。当前提供 Windows x64 版本；手机小程序尚未作为本仓库的正式发行内容。
 
 安装包约 285 MiB，包含离线运行文件。程序尚未进行代码签名，Windows 可能提示未知发布者，请核对下载来源和 SHA-256。不要关闭系统安全防护；遇到安全拦截请先停止安装并反馈。
 
